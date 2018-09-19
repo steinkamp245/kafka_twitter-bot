@@ -26,6 +26,7 @@
     "mongoose": "^5.2.7",
     "passport": "^0.4.0",
     "passport-google-oauth": "^1.0.0",
+    "rxjs": "^6.3.2",
     "twitter": "^1.7.1",
     "winston": "^3.0.0"
   },
@@ -47,7 +48,6 @@
     "@types/passport": "^0.4.6",
     "@types/passport-google-oauth": "^1.0.38",
     "@types/supertest": "^2.0.5",
-    "@types/twitter": "0.0.28",
     "@types/winston": "^2.3.9",
     "debug": "^3.1.0",
     "jest": "^23.5.0",
