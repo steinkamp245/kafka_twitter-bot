@@ -1,0 +1,13 @@
+{
+    "jwtPrivateKey": "jwtPrivateKey",
+    "googleOauth": {
+        "clientId": "google_clientId",
+        "clientSecret": "google_clientSecret"
+    },
+    "twitterAPI": {
+        "consumerKey": "twitter_ConsumerKey",
+        "consumerSecret": "twitter_ConsumerSecret",
+        "accessToken": "twitter_accessToken",
+        "accessTokenSecret": "twitter_accessTokenSecret"
+    }
+}

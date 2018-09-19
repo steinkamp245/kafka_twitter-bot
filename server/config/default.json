@@ -1,0 +1,14 @@
+{
+    "jwtPrivateKey": "",
+    "db": "mongodb://localhost:27017/kafka_twitter-bot",
+    "googleOauth": {
+        "clientId": "",
+        "clientSecret": ""
+    },
+    "twitterAPI": {
+        "consumerKey": "",
+        "consumerSecret": "",
+        "accessToken": "",
+        "accessTokenSecret": ""
+    }
+}
